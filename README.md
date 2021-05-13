@@ -1,1 +1,1 @@
-## Please refer to the writeup pdf for much details about this project.
+## Please refer to the writeup pdf (Traffic Signs Classifier_WriteUp.pdf) for much details about this project.
