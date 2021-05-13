@@ -1,1 +1,1 @@
-## Please refer to the writeup pdf for much détails about this project
+## Please refer to the writeup pdf for much details about this project.
